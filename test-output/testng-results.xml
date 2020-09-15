@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-29T11:16:49 EDT" name="Default suite" finished-at="2020-08-29T11:16:49 EDT" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2020-08-29T11:16:49 EDT" name="Default test" finished-at="2020-08-29T11:16:49 EDT" duration-ms="34">
+      <class name="com.sytax.class01.TestNGIntro">
+        <test-method signature="testFour()[pri:0, instance:com.sytax.class01.TestNGIntro@41ee392b]" started-at="2020-08-29T11:16:49 EDT" name="testFour" finished-at="2020-08-29T11:16:49 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method signature="testOne()[pri:0, instance:com.sytax.class01.TestNGIntro@41ee392b]" started-at="2020-08-29T11:16:49 EDT" name="testOne" finished-at="2020-08-29T11:16:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testThree()[pri:0, instance:com.sytax.class01.TestNGIntro@41ee392b]" started-at="2020-08-29T11:16:49 EDT" name="testThree" finished-at="2020-08-29T11:16:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method signature="testTwo()[pri:0, instance:com.sytax.class01.TestNGIntro@41ee392b]" started-at="2020-08-29T11:16:49 EDT" name="testTwo" finished-at="2020-08-29T11:16:49 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- com.sytax.class01.TestNGIntro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
